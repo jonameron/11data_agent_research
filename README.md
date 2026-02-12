@@ -1,3 +1,5 @@
+### Das hier ist das Ergebnis eines Schülerpraktikums bei 11data
+
 # 🤖 Drei Wege, einen KI-Agenten zur Social-Media-Automatisierung zu erstellen (Schülerpraktikum)
 
 Dieses Projekt zeigt drei unterschiedliche Ansätze, um Social-Media-Inhalte mit Hilfe von Künstlicher Intelligenz zu automatisieren – für Entwickler, Low-Code-Nutzer und No-Code-Einsteiger.  
